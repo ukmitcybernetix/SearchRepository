@@ -17,8 +17,6 @@ categories:
 Screenshots
 -----------
 
-![](./ss/1.png =250x)
-![](./ss/2.png =250x)
 ![Main Menu](ss/1.png "Main Menu")
 ![Main Menu](ss/2.png "Main Menu")
 
