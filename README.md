@@ -17,8 +17,8 @@ categories:
 Screenshots
 -----------
 
-https://github.com/ukmitcybernetix/SearchRepository/blob/master/ss/1.png
-https://github.com/ukmitcybernetix/SearchRepository/blob/master/ss/1.png
+![Main Menu](ss/1.png "Main Menu")
+![Main Menu](ss/2.png "Main Menu")
 
 
 Libraries Used
