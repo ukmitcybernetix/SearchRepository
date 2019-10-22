@@ -5,9 +5,8 @@ import androidx.room.PrimaryKey
 import com.google.gson.annotations.SerializedName
 
 @Entity(tableName = "repos")
-class Repository(
-    @PrimaryKey
-    @field:SerializedName("id") val id: Long,
+data class Repository(
+    @PrimaryKey @field:SerializedName("id") val id: Long,
     @field:SerializedName("name") val name: String,
     @field:SerializedName("full_name") val fullName: String,
     @field:SerializedName("description") val description: String?,
@@ -16,3 +15,4 @@ class Repository(
     @field:SerializedName("forks_count") val forks: Int,
     @field:SerializedName("language") val language: String?
 )
+
