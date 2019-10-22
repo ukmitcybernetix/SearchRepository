@@ -17,8 +17,8 @@ categories:
 Screenshots
 -----------
 
-![Picture 1](ss/1.png "Picture 1")
-![Picture 2](ss/1.png "Picture 2")
+https://github.com/ukmitcybernetix/SearchRepository/blob/master/ss/1.png
+https://github.com/ukmitcybernetix/SearchRepository/blob/master/ss/1.png
 
 
 Libraries Used
